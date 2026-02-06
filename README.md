@@ -24,11 +24,11 @@ App runs at:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshot/1.png" width="180" />
-  <img src="screenshot/2.png" width="180" />
-  <img src="screenshot/3.png" width="180" />
-  <img src="screenshot/4.png" width="180" />
-  <img src="screenshot/5.png" width="180" />
+  <img src="screenshot/1.png" width="180" height="360" />
+  <img src="screenshot/2.png" width="180" height="360"/>
+  <img src="screenshot/3.png" width="180" height="360"/>
+  <img src="screenshot/4.png" width="180" height="360"/>
+  <img src="screenshot/5.png" width="180" height="360"/>
 </p>
 
 ---
