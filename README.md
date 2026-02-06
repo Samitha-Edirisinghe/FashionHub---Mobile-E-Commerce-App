@@ -36,7 +36,7 @@ App runs at:
 ## 🎥 Demo Video
 
 📽️ **Application Walkthrough:**  
-👉 [Watch Demo Video](screenshots/1.mp4)
+👉 [Watch Demo Video](screenshot/1.mp4)
 
 ---
 
