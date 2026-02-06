@@ -5,21 +5,6 @@ A modern **mobile-first e-commerce application** built with **React, TypeScript,
 
 This project was developed as a **portfolio project** to demonstrate frontend development skills, component-based architecture, and practical product design thinking.
 
-🔗 **GitHub Repository:**  
-https://github.com/Samitha-Edirisinghe/FashionHub---Mobile-E-Commerce-App.git
-
----
-
-## 🚀 Live Preview (Local)
-
-```bash
-npm run dev
-```
-
-App runs at:  
-`http://localhost:5173`
-
----
 
 ## 📸 Screenshots
 
