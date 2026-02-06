@@ -38,6 +38,9 @@ App runs at:
 📽️ **Application Walkthrough:**  
 👉 [Watch Demo Video](screenshot/1.mp4)
 
+🎬 **Watch full demo video on Google Drive:**  
+https://drive.google.com/file/d/1IyByJG7wq8iQCBSQ8JloZ4Qw5LfHsBwU/view?usp=sharing
+
 ---
 
 ## ✨ Key Features
